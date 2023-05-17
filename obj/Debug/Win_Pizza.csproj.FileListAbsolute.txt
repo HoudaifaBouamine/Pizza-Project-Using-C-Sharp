@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Win_Pizza\bin\Debug\Win_Pizza.exe.config
+C:\Users\admin\Desktop\Win_Pizza\bin\Debug\Win_Pizza.exe
+C:\Users\admin\Desktop\Win_Pizza\bin\Debug\Win_Pizza.pdb
+C:\Users\admin\Desktop\Win_Pizza\obj\Debug\Win_Pizza.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Win_Pizza\obj\Debug\Win_Pizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Win_Pizza\obj\Debug\Win_Pizza.Form1.resources
+C:\Users\admin\Desktop\Win_Pizza\obj\Debug\Win_Pizza.Properties.Resources.resources
+C:\Users\admin\Desktop\Win_Pizza\obj\Debug\Win_Pizza.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Win_Pizza\obj\Debug\Win_Pizza.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Win_Pizza\obj\Debug\Win_Pizza.exe
+C:\Users\admin\Desktop\Win_Pizza\obj\Debug\Win_Pizza.pdb
